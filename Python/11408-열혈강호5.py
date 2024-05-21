@@ -1,5 +1,5 @@
 # 열혈강호 5 (https://www.acmicpc.net/problem/11408)
-# 최소 비용 최대 유량\
+# 최소 비용 최대 유량
 
 import sys; input = sys.stdin.readline
 from collections import deque
