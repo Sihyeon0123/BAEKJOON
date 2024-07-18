@@ -5,7 +5,7 @@
 > 📌 
 
 
-## **SW** Expert Academy
+## SW Expert Academy
 
 > 📌 13229. 일요일
 > 
