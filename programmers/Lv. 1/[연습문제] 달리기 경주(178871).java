@@ -5,10 +5,9 @@ class Solution {
     public static void main(String[] args){
         String [] players = {"mumu", "soe", "poe", "kai", "mine"};
         String [] callings = {"kai", "kai", "mine", "mine"};
-		System.out.println("sdfsdf");
-        String [] temp = solution(players, callings);
-        for(String a: temp){
-            System.err.println(a);
+        String [] result = solution(players, callings);
+        for(String a: result){
+            System.out.println(a);
         }
     }
 
