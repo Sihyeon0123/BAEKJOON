@@ -1,4 +1,4 @@
-// [연습문제] 과일 장수(135808)
+// [연습문제] 삼총사(131705)
 import java.util.*;
 
 class Solution {
